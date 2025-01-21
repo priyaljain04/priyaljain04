@@ -8,14 +8,14 @@ My portfolio showcases diverse projects, including developing retrieval-augmente
 ---
 
 ## 🔧 Technical Skills:
--**Languages:** Python (Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn, nltk), R, SQL, Linux, C++
--**Tools & Technologies:** Tableau, Power BI, Microsoft Excel, Apache Spark, Spark Streaming, Apache Kafka, Databricks
--**Cloud Platforms:** AWS (EC2, EMR, S3, Athena, Glue, SageMaker), Microsoft Azure (ADLS Gen2, Databricks Delta Lake, Data Factory, Synapse)
--**Data Warehousing:** Snowflake, Microsoft SQL Server, Teradata, Oracle, MySQL
--**Big Data & Pipelines:** Hadoop (HDFS, Sqoop, Pig, Hive), PySpark
--**Visualization:** Tableau, Power BI, Excel
--**Predictive Analytics:** Classification, Regression, Gradient Boosting, Neural Networks, PCA, Clustering, Time Series Forecasting
--**Generative AI and LLMs:** Proficient in GPT-3, GPT-4, LLaMA, LangChain, tokenization, RAG, and prompt engineering.
+- **Languages:** Python (Scikit-learn, Pandas, NumPy, SciPy, Matplotlib, Seaborn, nltk), R, SQL, Linux, C++
+- **Tools & Technologies:** Tableau, Power BI, Microsoft Excel, Apache Spark, Spark Streaming, Apache Kafka, Databricks
+- **Cloud Platforms:** AWS (EC2, EMR, S3, Athena, Glue, SageMaker), Microsoft Azure (ADLS Gen2, Databricks Delta Lake, Data Factory, Synapse)
+- **Data Warehousing:** Snowflake, Microsoft SQL Server, Teradata, Oracle, MySQL
+- **Big Data & Pipelines:** Hadoop (HDFS, Sqoop, Pig, Hive), PySpark
+- **Visualization:** Tableau, Power BI, Excel
+- **Predictive Analytics:** Classification, Regression, Gradient Boosting, Neural Networks, PCA, Clustering, Time Series Forecasting
+- **Generative AI and LLMs:** Proficient in GPT-3, GPT-4, LLaMA, LangChain, tokenization, RAG, and prompt engineering.
 
 ---
 
